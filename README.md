@@ -15,3 +15,5 @@ python3 clip/train.py
 ```sh
 python3 evaluate.py
 ```
+
+Checkpoints hosted with Git LFS
