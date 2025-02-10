@@ -1,1 +1,10 @@
-clip/checkpoints filter=lfs diff=lfs merge=lfs -text
+clip/checkpoints/1.pt filter=lfs diff=lfs merge=lfs -text
+clip/checkpoints/2.pt filter=lfs diff=lfs merge=lfs -text
+clip/checkpoints/3.pt filter=lfs diff=lfs merge=lfs -text
+clip/checkpoints/6.pt filter=lfs diff=lfs merge=lfs -text
+clip/checkpoints/9.pt filter=lfs diff=lfs merge=lfs -text
+clip/checkpoints/10.pt filter=lfs diff=lfs merge=lfs -text
+clip/checkpoints/4.pt filter=lfs diff=lfs merge=lfs -text
+clip/checkpoints/5.pt filter=lfs diff=lfs merge=lfs -text
+clip/checkpoints/7.pt filter=lfs diff=lfs merge=lfs -text
+clip/checkpoints/8.pt filter=lfs diff=lfs merge=lfs -text
